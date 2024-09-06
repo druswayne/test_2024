@@ -1,4 +1,5 @@
 print('kek')
-asdas
-print('прикольно')
-print("bike")
+hjgjhgkjdf
+g
+fd
+
