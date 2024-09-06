@@ -1,2 +1,4 @@
 print('kek')
-asdas
+a =0
+while True:
+    print(a++1)
