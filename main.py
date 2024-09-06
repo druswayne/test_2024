@@ -1,4 +1,4 @@
 print('kek')
-asdas
+
 print("bike")
-print(" гыг")
+print(" гыг") and print("asdas")
