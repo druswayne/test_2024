@@ -1,3 +1,2 @@
-print('kek')
-asdas
-print("bike")
+print('ыы')
+
